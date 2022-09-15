@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @shen-1219
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-shen-1219/shen-1219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                  自嘲
+本是后山人，偶作前堂客，醉舞经阁半卷书，坐井说天阔。
+大志戏功名，海斗量福祸，轮到囊中羞涩时，怒指乾坤错。
